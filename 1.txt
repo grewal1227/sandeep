@@ -1,11 +1,12 @@
 hello again
 
 
-<<<<<<< HEAD
 test1 first change
-=======
-test1 first change again
->>>>>>> test1
 
 
 test2 change
+
+hi 
+hello
+
+
